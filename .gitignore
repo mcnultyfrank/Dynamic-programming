@@ -1,2 +1,6 @@
 script.js
 *.html
+node_modules
+*.css
+yarn.lock
+package.json
